@@ -1,0 +1,14 @@
+{
+    "new_version": "1.0.0",
+    "url": "https://github.com/mandytechnologies/my-awesome-plugin",
+    "package": "https://github.com/mandytechnologies/my-awesome-pluginreleases/download/v1.0.0/my-awesome-plugin.zip",
+    "author": "Mandy Technologies",
+    "author_profile": "https://www.mandytechnologies.com/",
+    "requires": "5.0",
+    "tested": "6.0",
+    "sections": {
+        "description": "This is a description of the plugin. It's awesome!",
+        "changelog": "### 1.0.1\n* Fixed a bug with a feature.\n* Added a new setting.",
+        "installation": "Simply upload the ZIP file."
+    }
+}
