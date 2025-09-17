@@ -1,7 +1,7 @@
 {
-    "new_version": "1.0.0",
+    "new_version": "1.0.1",
     "url": "https://github.com/mandytechnologies/my-awesome-plugin",
-    "package": "https://github.com/mandytechnologies/my-awesome-pluginreleases/download/v1.0.0/my-awesome-plugin.zip",
+    "package": "https://github.com/mandytechnologies/my-awesome-pluginreleases/download/v1.0.1/my-awesome-plugin.zip",
     "author": "Mandy Technologies",
     "author_profile": "https://www.mandytechnologies.com/",
     "requires": "5.0",
