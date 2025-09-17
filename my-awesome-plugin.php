@@ -3,7 +3,7 @@
  * Plugin Name:           My Awesome Plugin
  * Plugin URI:            https://github.com/mandytechnologies/my-awesome-plugin
  * Description:           This is plugin to demonstrate how to create a WordPress plugin that can update itself from a GitHub repository.
- * Version:               1.0.0
+ * Version:               1.0.1
  * Requires PHP:          8.0
  * Requires at least:     6.1.0
  * Tested up to:          6.8.2
@@ -24,7 +24,7 @@ if (!defined('ABSPATH')) {
 // Make sure to replace 'your-github-username' and 'your-repo-name' with your own.
 // ---------------------------------------------------------------------------------
 define('MY_AWESOME_PLUGIN_SLUG', 'my-awesome-plugin');
-define('MY_AWESOME_PLUGIN_VERSION', '1.0.0'); // This version needs to match the one in the plugin header.
+define('MY_AWESOME_PLUGIN_VERSION', '1.0.1'); // This version needs to match the one in the plugin header.
 
 // The URL to the JSON file that will contain the update information.
 // You need to host this file on a publicly accessible server.
