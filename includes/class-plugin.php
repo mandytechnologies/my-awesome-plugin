@@ -2,10 +2,10 @@
 
 if ( ! defined( 'ABSPATH' ) ) exit;
 
-class Cher_Plugin_Template {
+class Map_Plugin_Template {
 
 	/**
-	 * The single instance of Cher_Plugin_Template.
+	 * The single instance of Map_Plugin_Template.
 	 * @var 	object
 	 * @access  private
 	 * @since 	1.0.0
@@ -158,14 +158,14 @@ class Cher_Plugin_Template {
 	} // End enqueue_scripts ()
 
 	/**
-	 * Main Cher_Plugin_Template Instance
+	 * Main Map_Plugin_Template Instance
 	 *
-	 * Ensures only one instance of Cher_Plugin_Template is loaded or can be loaded.
+	 * Ensures only one instance of Map_Plugin_Template is loaded or can be loaded.
 	 *
 	 * @since 1.0.0
 	 * @static
-	 * @see Cher_Plugin_Template()
-	 * @return Main Cher_Plugin_Template instance
+	 * @see Map_Plugin_Template()
+	 * @return Main Map_Plugin_Template instance
 	 */
 	public static function instance ( $file = '', $version = '1.0.0' ) {
 		if ( is_null( self::$_instance ) ) {
