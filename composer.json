@@ -1,5 +1,5 @@
 {
-	"name": "vital/cher",
+	"name": "mandy/my-awesome-plugin",
 	"description": "WordPress plugin for adding simple, lightweight social sharing buttons",
 	"keywords": ["wordpress", "social", "sharing"],
 	"type": "wordpress-plugin",
@@ -7,9 +7,9 @@
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Vital",
-			"email": "hello@vitaldesign.com",
-            "homepage": "https://vitaldesign.com/"
+			"name": "Mandy Technologies",
+			"email": "info@mandytechnologies.com",
+            "homepage": "https://www.mandytechnologies.com/"
 		}
 	],
 	"require": {
