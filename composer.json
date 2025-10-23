@@ -1,9 +1,9 @@
 {
 	"name": "mandy/my-awesome-plugin",
-	"description": "WordPress plugin for adding simple, lightweight social sharing buttons",
+	"description": "my-awesome-plugin is a WordPress plugin.",
 	"keywords": ["wordpress", "social", "sharing"],
 	"type": "wordpress-plugin",
-	"homepage": "https://github.com/VitalDevTeam/Cher",
+	"homepage": "https://github.com/mandytechnologies/my-awesome-plugin/r",
 	"license": "MIT",
 	"authors": [
 		{
